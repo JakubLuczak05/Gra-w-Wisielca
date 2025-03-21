@@ -21,22 +21,19 @@ Wprowadzenie prawidłowej litery:  <br/>
 <img src="https://i.imgur.com/687LNH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Usuniecie ostatnio dodanego produktu: <br/>
-<img src="https://i.imgur.com/LhCM1Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wprowadzewnie prawidłowego słowa: <br/>
+<img src="https://i.imgur.com/f2aw9nq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Dodanie zniżki:  <br/>
-<img src="https://i.imgur.com/oDdEcyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wprowadzenie nieprawidlowej litery:  <br/>
+<img src="https://i.imgur.com/GQfg25K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Usunięcie zniżki:  <br/>
-<img src="https://i.imgur.com/LhCM1Nc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wprowadzenie nieprawidłowego słowa:  <br/>
+<img src="https://i.imgur.com/Yk4A9fj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Płatność:  <br/>
-<img src="https://i.imgur.com/ZAPDpuz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 </p>
 
