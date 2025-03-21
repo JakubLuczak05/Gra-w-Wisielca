@@ -17,8 +17,8 @@ Odpalenie Programu: <br/>
 <img src="https://i.imgur.com/sbpNqPQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wybór produktów:  <br/>
-<img src="https://i.imgur.com/6QjJ2wm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wprowadzenie prawidłowej litery:  <br/>
+<img src="https://i.imgur.com/687LNH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Usuniecie ostatnio dodanego produktu: <br/>
