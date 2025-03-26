@@ -13,7 +13,7 @@ Gra w wisielca została stworzona w Pythonie, ta gra polega na zgadywaniu prawid
 <h2>Pokaz Programu:</h2>
 
 <p align="center">
-Odpalenie Programu: <br/>
+Odpalenie gry: <br/>
 <img src="https://i.imgur.com/sbpNqPQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
